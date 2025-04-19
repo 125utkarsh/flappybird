@@ -4,7 +4,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        // ✅ Upgrade AGP version here
+        // ✅ Upgrade AGP version
         classpath 'com.android.tools.build:gradle:8.1.0'
     }
 }
